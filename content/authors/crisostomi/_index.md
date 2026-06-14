@@ -1,14 +1,12 @@
 ---
 title: Donato Crisostomi
-role: PhD Student
-bio: "PhD student @ Sapienza, University of Rome | former Applied Science intern @ Amazon Search, Luxembourg | former Research Science intern @ Amazon Alexa, Turin"
+role: PostDoctoral Researcher
+bio: My research interests revolve around artificial intelligence, in particular mechanistic interpretability, model merging and representational alignment.
 
 interests:
+  - Mechanistic Interpretability
   - Model Merging
-  - Multi-Modality
-  - Few-Shot Learning
-  - Graph Representation Learning
-  - Natural Language Understanding
+  - Large Language Models
 social:
   - icon: envelope
     icon_pack: fas
@@ -35,7 +33,7 @@ organizations:
 email: ""
 superuser: true
 user_groups:
-  - PhD Students
+  - Postdocs
 status:
   icon: ""
 last_name: Crisostomi
@@ -44,10 +42,14 @@ first_name: Donato
 ---
 
 {style="text-align: justify;"}
-I am an enthusiastic Ph.D. student in Computer Science at Sapienza, University of Rome, where I am part of the *GLADIA* research group, led by prof. Emanuele Rodolà.
+Hello!
 
-I believe curiosity to have a primary role in guiding research, and hence I am always looking forward to explore new directions in my field. My background includes hands-on research experience in **Natural Language Understanding**, **Computer Vision** and **Geometric Deep Learning**. Some of my more stable interests include frontier Machine Learning themes such as **Model Merging**, **Representational Aligment** and **Graph Representation Learning**.
+I gave up on keeping an up-to-date bio that I don't find cringe 6 months later, so I'll just list facts.
 
-I wholeheartedly advocate for cleaner code in ML, as complexity should not be fought with more complexity. Maybe unsurprisingly at this point, I really enjoy coding. Funnily enough, I enjoy it so much that I often code as a mean to get away from a tiring day of coding.
+I am the PI of a Coefficient Giving grant on modular steering vectors, and I'll join Anthropic for an AI Safety fellowship in July 2026.
 
-In my (too little) free time, I enjoy throwing away my laptop to reconnect with nature through hiking and/or camping. Finally, like most of the humans on this planet, I enjoy travelling and good food.
+I got my ELLIS Ph.D. from Sapienza, advised by Prof. Rodolà and co-supervised by Prof. Liò at the University of Cambridge. I was previously at Cohere, Amazon Search and Amazon Alexa.
+
+I am interested in mech interp, weight space techniques and model merging.
+
+You can find my papers on [Scholar](https://scholar.google.com/citations?user=qi08d7kAAAAJ), and (some of) my opinions on [X](https://twitter.com/DonatoCrisosto1).
